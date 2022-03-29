@@ -83,7 +83,7 @@ Donations setting has been set to 0% in the XLArig lib embedded within the appli
 ## Credits
 * Forked from [Mine2gether](https://github.com/Mine2Gether/m2g_android_miner)
 * Original code from [MoneroMiner](https://github.com/upost/MoneroMiner)
-* SiriCoin MobileMiner forked from [ScalaMiner](https://github.com/scala-project/MobileMiner)
+* SiriCoin MobileMiner forked from [ScalaMiner](https://github.com/scala-network/MobileMiner)
 
 ## Contacts
 * [Website](https://scalaproject.io/)
